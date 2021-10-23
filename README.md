@@ -1,4 +1,6 @@
-### Hi! My name is Lorrain and I am a sociologist, ecologist, an analyst and a programmer.
+[Link button](http://example.com/){: .btn }
+
+# Hi! My name is Lorrain and I am a sociologist, ecologist, an analyst and a programmer.
 
 ## I do:
 
