@@ -2,9 +2,9 @@
 
 ## I do:
 
-- Data analysis and cleaning
-- Geographic Information Systems
-- Artificial Intelligence
+* Data analysis and cleaning
+* Geographic Information Systems
+* Artificial Intelligence
 
 ### Hola! Mi nombre es Lorrain y soy sociólogo, ecólogo, analista y programador.
 
