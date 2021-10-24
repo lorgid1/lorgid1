@@ -1,8 +1,9 @@
-[Link button](http://example.com/){: .btn }
 
-# Hi! My name is Lorrain and I am a sociologist, ecologist, an analyst and a programmer.
 
-## I do:
+# Welcome! 
+## My name is Lorrain.
+
+I've been a data analist for quite a while. It all stared with *GIS* (QGIS and ArcGIS) and then moved to Wolfram Mathematica, Python and R.
 
 * Data analysis and cleaning
 * Geographic Information Systems
